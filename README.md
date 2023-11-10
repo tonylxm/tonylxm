@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tony
-I'm Tony from Auckland, New Zealand and I am a Part II Software Engineering student @The University of Auckland. 
+I'm Tony from Auckland, New Zealand and I am a Part II Software Engineering student @ The University of Auckland. 
 
 Skills: Java / Python / JavaScript / HTML / CSS
 
