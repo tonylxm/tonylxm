@@ -5,6 +5,8 @@
 
 - 📚 I’m upskilling by learning **Full Stack Development with React and Angular frameworks**
 
+- Check out my personal website **https://tonylxm.com/**
+
 - 📫 How to reach me **tonylim8669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
