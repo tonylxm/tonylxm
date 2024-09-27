@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A penultimate software engineering student from Auckland, New Zealand</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 📚 I’m upskilling by learning **Full Stack Development with React and Angular frameworks**
+- 👑 President of the [Software Engineering Students Association (SESA)](https://sesa.org.nz/)
 
 - Check out my personal website **https://tonylxm.com/**
 
