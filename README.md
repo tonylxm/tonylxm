@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A penultimate software engineering student from Auckland, New Zealand</h3>
 
-- 👑 President of the [Software Engineering Students Association (SESA)](https://sesa.org.nz/)
+- 👑 President of the **[Software Engineering Students Association (SESA)](https://sesa.org.nz/)**
 
 - 🌐 Check out my personal website **https://tonylxm.com/**
 
