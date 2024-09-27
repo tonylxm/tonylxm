@@ -3,7 +3,7 @@
 
 - 👑 President of the [Software Engineering Students Association (SESA)](https://sesa.org.nz/)
 
-- Check out my personal website **https://tonylxm.com/**
+- 🌐 Check out my personal website **https://tonylxm.com/**
 
 - 📫 How to reach me **tonylim8669@gmail.com**
 
