@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">Software engineer in Auckland, New Zealand</h3>
 
-- 🌐 Check out my personal website **https://tonylxm.com/**
+- 🌐 Check out my personal website **[https://tonylxm.com/](https://tonylxm.github.io/website/)**
 - 📫 How to reach me **tonylim8669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
