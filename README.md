@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A final year software engineering student from Auckland, New Zealand</h3>
+<h3 align="center">Software engineer in Auckland, New Zealand</h3>
 
-- 👑 Industry Event Lead (2025) and President (2024) the **[Software Engineering Students Association (SESA)](https://sesa.org.nz/)**
-- 🖥️ Competitions Executive (2025) at the **[Web Development and Consulting Club (WDCC)](https://wdcc.co.nz/)** 
 - 🌐 Check out my personal website **https://tonylxm.com/**
 - 📫 How to reach me **tonylim8669@gmail.com**
 
